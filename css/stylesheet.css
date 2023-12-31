@@ -18,3 +18,11 @@ h1{
 h3{
     color: #176B87;
 }
+
+#submitBtn:hover{
+    background-color:#DDF2FD;
+}
+#submitBtn{
+    background-color:#176B87;
+    transition: background-color 0.5s;
+}
